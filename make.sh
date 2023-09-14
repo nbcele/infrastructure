@@ -8,7 +8,7 @@
 AWS_PROFILE=default
 AWS_REGION=af-south-1
 # project name
-PROJECT_NAME=aurora-postgres-private
+PROJECT_NAME=infrastructure
 POSTGRES_USERNAME=master
 POSTGRES_PASSWORD=masterpass
 # the directory containing the script file
